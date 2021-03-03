@@ -1,2 +1,2 @@
-# randomCode
-some random experiments
+# shell
+bash, zsh, powershell...
